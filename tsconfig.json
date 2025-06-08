@@ -1,13 +1,12 @@
 {
   "compilerOptions": {
-    "target": "es2016",
+    "target": "ES6",
     "module": "commonjs",
-    "rootDir": "./code",
-    "outDir": "./lib",
-    "strict": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true
+    "outDir": "build",
+    "rootDir": "code",
+    "strict": true
   },
-  "include": ["code"]
+  "include": [
+    "code"
+  ]
 }

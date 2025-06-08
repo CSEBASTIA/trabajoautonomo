@@ -10,6 +10,11 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/react-calendar": "^3.9.0",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "react-calendar": "^6.0.0",
+    "react-toastify": "^11.0.5"
   }
 }
